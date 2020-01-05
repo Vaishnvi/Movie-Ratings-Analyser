@@ -1,1 +1,1 @@
-Forms/UI of the pages in the project.
+Forms/ QT UI files in the project.
